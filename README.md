@@ -4,7 +4,7 @@
 
 ### Hacktoberfest is a month-long virtual festival to celebrate open source software in partnership with Github. It is celebrated in the month of October every year. All you have to do is contribute to any open source projects and make at least 4 pull requests within the month of October.
 
-### The first 70,000 participants who successfully complete the challenge will be eligible to receive a prize. (Do it soon, let's start! 😊)
+### The first 70,000 participants who will successfully complete the challenge will be eligible to receive a prize. (Do it soon, let's start! 😊)
 
 ### This is a beginner-friendly repo to help you in open-source contributions. Made specifically for HACKTOBERFEST 2020!  
 
@@ -35,7 +35,7 @@ To put the rules in a form consistent with the spirit of Hacktoberfest:
 
 <a href ="https://youtu.be/0BV1QCl8Az0"> Click here </a> to learn a simple tutorial on pull requests. 
 
-## Also if you are a college student, feel free to join our Discord server to chat and share resources/job opportunities/mock interviews/referrals/general informations/games and a lot more. If you want to join, you can join us at: <a href="https://discord.gg/GTJx7qh"> Cullyege Discord Server. </a>
+## Also if you are a college student, feel free to join our Discord server to chat and share resources/job opportunities/mock interviews/referrals/general informations/games and a lot more. You can join us at: <a href="https://discord.gg/GTJx7qh"> Cullyege Discord Server. </a>
 
            .
 
